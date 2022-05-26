@@ -1,0 +1,3 @@
+[submodule "ids_server"]
+	path = ids_server
+	url = https://github.com/Jyrijoul/ids_server.git
